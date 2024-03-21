@@ -33,8 +33,8 @@ code_url: "https://github.com/LibraryOfCongress/labs-ai-framework"
 
 
 # Build settings
-#theme: loc-jekyll-template
-theme: minima
+theme: loc-jekyll-template
+#theme: minima
 plugins:
   - jekyll-feed
 
