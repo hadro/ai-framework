@@ -6,9 +6,8 @@ title: LC Labs AI Planning Framework
 
 # LC Labs AI Planning Framework
 
-README
-
 ## About 
+
 LC Labs has been exploring how to use emerging technologies to expand the use of digital materials since our launch in 2016. We quickly saw machine learning (ML), one branch of artificial intelligence (AI), as a potential way to [provide more metadata](https://labs.loc.gov/work/experiments/experimental-access/) and [connections](https://citizen-dj.labs.loc.gov/) between collection items and users.  [Experiments and research](https://blogs.loc.gov/thesignal/2023/11/why-experiment-machine-learning-at-the-library-of-congress/) have shown the risks and benefits of using AI in libraries, archives and museums (LAMs).
 
 To account for these challenges and realities, LC Labs has been developing a planning framework to support the responsible exploration and potential adoption of AI at the Library.  Read the full overview of the Labs framework in our [related post on the Signal Blog](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework).
