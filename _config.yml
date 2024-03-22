@@ -27,7 +27,7 @@ description_with_markdown: >-
 domain: libraryofcongress.github.io
 baseurl: "/labs-ai-framework" # the subpath of your site, e.g. /blog
 url: "https://libraryofcongress.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-about_url: /about/
+about_url: /
 code_url: "https://github.com/LibraryOfCongress/labs-ai-framework"
 
 
@@ -35,11 +35,9 @@ main_menu:
 - id: homepage
   url: "/"
   text: Homepage
-
-- id: about
-  url: "/about/"
-  text: About
-
+# - id: about
+#   url: "/about/"
+#   text: About
 - id: code
   url: "https://github.com/LibraryOfCongress/labs-ai-framework"
   text: Code
