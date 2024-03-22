@@ -21,9 +21,9 @@
 title: LC Labs AI Planning Framework
 email: LC-Labs@loc.gov
 description: >-
-  This site describes technical methods, techniques, or approaches for engaging with the Library of Congress.
+  This site offerrs a planning framework to support the responsible exploration and potential adoption of AI at the Library.
 description_with_markdown: >-
-  This site describes technical methods, techniques, or approaches for engaging with the [Library of Congress](https://www.loc.gov/).
+   This site offerrs a planning framework to support the responsible exploration and potential adoption of AI at the Library.
 domain: libraryofcongress.github.io
 baseurl: "/labs-ai-framework" # the subpath of your site, e.g. /blog
 url: "https://libraryofcongress.github.io" # the base hostname & protocol for your site, e.g. http://example.com
