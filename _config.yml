@@ -31,6 +31,19 @@ about_url: /about/
 code_url: "https://github.com/LibraryOfCongress/labs-ai-framework"
 
 
+main_menu: 
+- id: homepage
+  url: "/"
+  text: Homepage
+
+- id: about
+  url: "/about/"
+  text: About
+
+- id: code
+  url: "https://github.com/LibraryOfCongress/labs-ai-framework"
+  text: Code
+  is_external: true
 
 # Build settings
 theme: loc-jekyll-template
